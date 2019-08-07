@@ -1,0 +1,17 @@
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\bin\Debug\netcoreapp2.1\FinstaGeneric_Api.deps.json
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\bin\Debug\netcoreapp2.1\FinstaGeneric_Api.runtimeconfig.json
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\bin\Debug\netcoreapp2.1\FinstaGeneric_Api.runtimeconfig.dev.json
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\bin\Debug\netcoreapp2.1\FinstaGeneric_Api.dll
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\bin\Debug\netcoreapp2.1\FinstaGeneric_Api.pdb
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\bin\Debug\netcoreapp2.1\FinstaGenericInfrastructure.dll
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\bin\Debug\netcoreapp2.1\FinstaGenericInfrastructure.pdb
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\obj\Debug\netcoreapp2.1\FinstaGeneric_Api.csprojAssemblyReference.cache
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\obj\Debug\netcoreapp2.1\FinstaGeneric_Api.csproj.CoreCompileInputs.cache
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\obj\Debug\netcoreapp2.1\FinstaGeneric_Api.RazorAssemblyInfo.cache
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\obj\Debug\netcoreapp2.1\FinstaGeneric_Api.RazorAssemblyInfo.cs
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\obj\Debug\netcoreapp2.1\FinstaGeneric_Api.AssemblyInfoInputs.cache
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\obj\Debug\netcoreapp2.1\FinstaGeneric_Api.AssemblyInfo.cs
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\obj\Debug\netcoreapp2.1\FinstaGeneric_Api.RazorTargetAssemblyInfo.cache
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\obj\Debug\netcoreapp2.1\FinstaGeneric_Api.csproj.CopyComplete
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\obj\Debug\netcoreapp2.1\FinstaGeneric_Api.dll
+E:\PROJECTS\FinstaGeneric\FinstaGeneric_Api\obj\Debug\netcoreapp2.1\FinstaGeneric_Api.pdb

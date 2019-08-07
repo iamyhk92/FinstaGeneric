@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\PROJECTS\\FinstaGeneric\\FinstaGenericWeb\\FinstaGenericWeb.csproj": {}
+  },
+  "projects": {
+    "E:\\PROJECTS\\FinstaGeneric\\FinstaGenericInfrastructure\\FinstaGenericInfrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PROJECTS\\FinstaGeneric\\FinstaGenericInfrastructure\\FinstaGenericInfrastructure.csproj",
+        "projectName": "FinstaGenericInfrastructure",
+        "projectPath": "E:\\PROJECTS\\FinstaGeneric\\FinstaGenericInfrastructure\\FinstaGenericInfrastructure.csproj",
+        "packagesPath": "C:\\Users\\EDPDOTNET\\.nuget\\packages\\",
+        "outputPath": "E:\\PROJECTS\\FinstaGeneric\\FinstaGenericInfrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDPDOTNET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\PROJECTS\\FinstaGeneric\\FinstaGenericWeb\\FinstaGenericWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PROJECTS\\FinstaGeneric\\FinstaGenericWeb\\FinstaGenericWeb.csproj",
+        "projectName": "FinstaGenericWeb",
+        "projectPath": "E:\\PROJECTS\\FinstaGeneric\\FinstaGenericWeb\\FinstaGenericWeb.csproj",
+        "packagesPath": "C:\\Users\\EDPDOTNET\\.nuget\\packages\\",
+        "outputPath": "E:\\PROJECTS\\FinstaGeneric\\FinstaGenericWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDPDOTNET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "E:\\PROJECTS\\FinstaGeneric\\FinstaGenericInfrastructure\\FinstaGenericInfrastructure.csproj": {
+                "projectPath": "E:\\PROJECTS\\FinstaGeneric\\FinstaGenericInfrastructure\\FinstaGenericInfrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.TypeScript.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+E:\PROJECTS\FinstaGeneric\FinstaGenericInfrastructure\bin\Debug\netcoreapp2.1\FinstaGenericInfrastructure.deps.json
+E:\PROJECTS\FinstaGeneric\FinstaGenericInfrastructure\bin\Debug\netcoreapp2.1\FinstaGenericInfrastructure.dll
+E:\PROJECTS\FinstaGeneric\FinstaGenericInfrastructure\bin\Debug\netcoreapp2.1\FinstaGenericInfrastructure.pdb
+E:\PROJECTS\FinstaGeneric\FinstaGenericInfrastructure\obj\Debug\netcoreapp2.1\FinstaGenericInfrastructure.csproj.CoreCompileInputs.cache
+E:\PROJECTS\FinstaGeneric\FinstaGenericInfrastructure\obj\Debug\netcoreapp2.1\FinstaGenericInfrastructure.AssemblyInfoInputs.cache
+E:\PROJECTS\FinstaGeneric\FinstaGenericInfrastructure\obj\Debug\netcoreapp2.1\FinstaGenericInfrastructure.AssemblyInfo.cs
+E:\PROJECTS\FinstaGeneric\FinstaGenericInfrastructure\obj\Debug\netcoreapp2.1\FinstaGenericInfrastructure.dll
+E:\PROJECTS\FinstaGeneric\FinstaGenericInfrastructure\obj\Debug\netcoreapp2.1\FinstaGenericInfrastructure.pdb
+E:\PROJECTS\FinstaGeneric\FinstaGenericInfrastructure\obj\Debug\netcoreapp2.1\FinstaGenericInfrastructure.csprojAssemblyReference.cache
